@@ -9,6 +9,11 @@
   - [Delish Restaurant](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Mobile Apps </b>
   - [Agri-link](https://github.com/joshmadakor1/EncrypterPOC)
+- <b>Agrilink App Video</b>
+  - [Video] (https://www.loom.com/share/52151051c4a34584bbb8c399f878ef4c?sid=6fa8a7
+b0-434e-4d5d-a47d-21dbfef1e729)
+- <b>Agrilink App Slides</b>
+  - [Slides] (https://www.beautiful.ai/player/-OOtIZYrI0g4kiHAoWCU)
 
 <h2> Certifications</h2>
 Pro Front-Dev Certificate - ALX
